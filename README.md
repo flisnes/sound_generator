@@ -8,7 +8,8 @@ Simple sound generator made while playing around with sound synthesizing in Pyth
 
 ## Usage:
 
-    jupyter notebook sound_generator.ipynb
+    jupyter lab
 
+Then press ´shift+enter´ in the first cell to set up the widgets.
 
 Use the interactive sliders to adjust synthesis parameters, then click "Render & Play" to generate audio. Save your creations using the "Save WAV" button.
